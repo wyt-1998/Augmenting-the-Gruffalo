@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/light test.unity
+    guid: 8721e19dc7e764133be25f18ba39a119
+  - enabled: 1
+    path: Assets/Scenes/testing dialog.unity
+    guid: bf910c9a2355e964fb1a4c5af2cd8b73
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: e7c2e9208fd1e884986348605646e672, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: de4fefd06adb9e745a5238ad5f53d82c, type: 2}

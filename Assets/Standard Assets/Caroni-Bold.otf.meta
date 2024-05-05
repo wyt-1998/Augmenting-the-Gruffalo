@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 9ed51b61cde0ce24bb049e46451481d5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Caroni
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8c625d8dae613744baa2910bbb488ee3, type: 3}
+  - {fileID: 12800000, guid: 26e31920be8244d49b233d3a16ab10f8, type: 3}
+  - {fileID: 12800000, guid: 83b893504eaa1ce4eb65141942580bac, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
